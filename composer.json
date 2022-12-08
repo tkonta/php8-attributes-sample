@@ -1,0 +1,14 @@
+{
+    "name": "takumi.konta/php8-attributes-sample",
+    "autoload": {
+        "psr-4": {
+            "tkonta\\Php8AttributesSample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tkonta"
+        }
+    ],
+    "require": {}
+}
